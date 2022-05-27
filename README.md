@@ -1,8 +1,8 @@
  ##      ★彡[ꜱᴀᴜᴅᴀçõᴇꜱ, ᴠɪꜱɪᴛᴀɴᴛᴇ!]彡★
  
- 👾 Estudante e desenvolvedor de aplicações para dispositivos móveis...
+ 👾 Estudante e desenvolvedor de aplicações para dispositivos móveis
  
- 👨‍💻 Trabalhando em: 𝐁𝐀𝐓𝐈𝐒𝐓𝐀 𝐒𝐎𝐋𝐔𝐂̧Õ𝐄𝐒 𝐃𝐄 𝐓𝐈...
+ 👨‍💻 Trabalhando em: 𝘓𝘊𝘖𝘋𝘌37 
  
 
    ♪└|∵|┐♪└|∵|┘♪┌|∵|┘♪ ♪└|∵┌|└| ∵ |┘|┐∵|┘
