@@ -5,7 +5,7 @@
  👨‍💻 Trabalhando em: 𝘓𝘊𝘖𝘋𝘌37 
  
  
- ![alt text](https://raw.githubusercontent.com/P3dro-4rtur/P3dro-4rtur/main/3605c83e-45de-473d-970b-48fcbc1c7376.jpg)
+ ![alt text](https://raw.githubusercontent.com/P3dro-4rtur/P3dro-4rtur/main/260675502_353885576765376_6463469306463387722_n.jpg)
  
 
    ♪└|∵|┐♪└|∵|┘♪┌|∵|┘♪ ♪└|∵┌|└| ∵ |┘|┐∵|┘
