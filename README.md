@@ -1,6 +1,6 @@
  ##      ★彡[ꜱᴀᴜᴅᴀçõᴇꜱ, ᴠɪꜱɪᴛᴀɴᴛᴇ!]彡★
  
- 👾 Estudante e desenvolvedor de aplicações para dispositivos móveis
+Desenvolvedor de aplicações para dispositivos móveis
  
  👨‍💻 Trabalhando em: 𝘓𝘊𝘖𝘋𝘌37 
  
@@ -19,6 +19,10 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+
+
           
  
 </div>
