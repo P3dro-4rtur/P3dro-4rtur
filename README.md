@@ -8,12 +8,7 @@ Desenvolvedor de aplicações para dispositivos móveis
  
    ♪└|∵|┐♪└|∵|┘♪┌|∵|┘♪ ♪└|∵┌|└| ∵ |┘|┐∵|┘
    
-<div align="left">
-  <a href="https://github.com/P3dro-4rtur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P3dro-4rtur&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3dro-4rtur&layout=compact&langs_count=7&theme=synthwave"/>
-  
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -21,10 +16,6 @@ Desenvolvedor de aplicações para dispositivos móveis
   <img align="center" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-
-
-          
- 
 </div>
 
         
